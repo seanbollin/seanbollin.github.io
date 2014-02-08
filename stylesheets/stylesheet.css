@@ -148,6 +148,11 @@ img {
   -ms-box-shadow: 0 0 5px #ebebeb;
 }
 
+img.linkedin {
+    padding: 0px;
+    margin-bottom: 0px;
+}
+
 p img {
   display: inline;
   margin: 0;
